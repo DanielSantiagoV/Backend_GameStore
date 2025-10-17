@@ -7,6 +7,13 @@
 > **Sistema de Gestión de Inventario para Tienda de Videojuegos**  
 > *Interfaz de usuario moderna y responsiva para la gestión completa de productos y ventas*
 
+## 🔗 Frontend Repository
+
+**Repositorio del Frontend:** [Frontend GameStore](https://github.com/DanielSantiagoV/Game_Store.git)
+
+El frontend está desarrollado con HTML, CSS y JavaScript vanilla, conectándose a este backend a través de las APIs documentadas.
+
+
 ## 📋 Descripción del Proyecto
 
 Este es el backend completo para un sistema de control de inventario de una tienda de videojuegos y consolas. El sistema permite gestionar productos (juegos y consolas) y registrar ventas con validación automática de stock.
