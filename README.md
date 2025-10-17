@@ -1,5 +1,12 @@
 # 🎮 Backend GameStore - Sistema de Control de Inventario
 
+<div align="center">
+  <img src="https://media.tenor.com/_mOMxTWntRcAAAAi/pepe-gaming.gif" alt="Pepe Gaming" width="300" height="200">
+</div>
+
+> **Sistema de Gestión de Inventario para Tienda de Videojuegos**  
+> *Interfaz de usuario moderna y responsiva para la gestión completa de productos y ventas*
+
 ## 📋 Descripción del Proyecto
 
 Este es el backend completo para un sistema de control de inventario de una tienda de videojuegos y consolas. El sistema permite gestionar productos (juegos y consolas) y registrar ventas con validación automática de stock.
