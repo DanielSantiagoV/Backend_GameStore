@@ -13,6 +13,9 @@
 
 El frontend está desarrollado con HTML, CSS y JavaScript vanilla, conectándose a este backend a través de las APIs documentadas.
 
+## 🔗 Videos sustentación
+**Parte1:** [Backend](https://youtu.be/TTiMNBuULb8)
+**Parte2:**  [Fronted](https://youtu.be/mhJwC_7tgP8)
 
 ## 📋 Descripción del Proyecto
 
